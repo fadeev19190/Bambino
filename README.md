@@ -1,5 +1,8 @@
 # Bambino
 
+Note: You can download the second file through the link:
+https://drive.google.com/drive/folders/1buJ6zQi0177haXs4eapM-d9Ehi2etpWw?usp=share_link
+
 Assignment: Evaluate an AB test of the recommendation algorithm
 
 Introduction 
